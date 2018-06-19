@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+#block {
+    background-image: url(https://static.planetminecraft.com/files/resource_media/screenshot/1610/6923890-minecraft-nature9958012_lrg.jpg) ;
+    width: 1400px;
+    height: 1000px;
+    font-size: 60px;
+   
+}
+p {
+    position: absolute;
+    left: 30px;
+    top: 350px;
+    font-family: Roboto , sans-serif ;
+    text-transform: uppercase;
+    color: #000;
+}
